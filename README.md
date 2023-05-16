@@ -1,6 +1,8 @@
 # Machine Learning in Sport Science
 
-Papers, reports about theory, fundamentals and applications.
+Articles, technical reports and other scientific publications on theory, fundamentals and applications of Machine Learning in Sports Science.
+
+References will be organized into categories
 
 ## References:
 
