@@ -97,3 +97,15 @@ Abstract = _"Understanding the principles of real-world biological multi-agent b
 20. Lam, Max W. Y.. "One-Match-Ahead Forecasting in Two-Team Sports with Stacked Bayesian Regressions" Journal of Artificial Intelligence and Soft Computing Research, vol.8, no.3, 2018, pp.159-171., URL=https://sciendo.com/article/10.1515/jaiscr-2018-0011
 
 Abstract = _"Thereisagrowinginterestinapplyingmachinelearningalgorithmstoreal-worldex-amplesbyexplicitlyderivingmodelsbasedonprobabilisticreasoning.Sportsanalytics,beingfavouredmostlybythestatisticscommunityandlessdiscussedinthemachinelearningcommunity,becomesourfocusinthispaper.Specifically,wemodeltwo-teamsportsforthesakeofone-match-aheadforecasting.WepresentapioneeringmodelingapproachbasedonstackedBayesianregressions,inawaythatwinningprobabilitycanbecalculatedanalytically.Benefitingfromregressionflexibilityandhighstandardofperformance,SparseSpectrumGaussianProcessRegression(SSGPR)–animprovedal-gorithmforthestandardGaussianProcessRegression(GPR),wasusedtosolveBayesianregressiontasks,resultinginanovelpredictivemodelcalledTLGProb.Forevaluation,TLGProbwasappliedtoapopularsportsevent–NationalBasketballAssociation(NBA).Finally,85.28%ofthematchesinNBA2014/2015regularseasonwerecorrectlypredictedbyTLGProb,surpassingtheexistingpredictivemodelsforNBA."_
+
+
+
+## DATASETS:
+
+1. Injury Prediction for Competitive Runners, URL=https://www.kaggle.com/datasets/shashwatwork/injury-prediction-for-competitive-runners
+2. Performance Data on Football teams 09 to 22, URL=https://www.kaggle.com/datasets/gurpreetsdeol/performance-data-on-football-teams-09-to-22
+3. FIFA World Cup 1930-2022 All Match Dataset, URL=https://www.kaggle.com/datasets/jahaidulislam/fifa-world-cup-1930-2022-all-match-dataset
+4. 120 years of Olympic history: athletes and results, URL=https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
+5. Crowdsourced Football Strategy Decisions, URL=https://www.kaggle.com/datasets/thedevastator/crowdsourced-football-strategy-decisions
+6. Football Strategy - Scenarios & Coaching Decisions, URL=https://www.kaggle.com/datasets/thedevastator/how-to-win-football-games-a-data-driven-approach
+7. Australian athletes data set, URL=https://www.kaggle.com/datasets/vikashrajluhaniwal/australian-athletes-data-set
